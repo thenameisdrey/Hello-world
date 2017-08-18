@@ -10,8 +10,4 @@ just a description
       <p>My name is dare. and i am new to programming</p>
   </body>
   </html>
-  <style>
-    h1{
-  color: red;
-  }
-    </style>
+
